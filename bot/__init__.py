@@ -29,4 +29,4 @@ def NewChat(bot,message):
 
 @app.on_message(filters.private)
 async def hello(bot, message):
-    await message.reply("Hello, This Is Banall Bot I can Ban Members Within seconds!\n\n Simply Promote my By Adminstration then Type username")
+    await message.reply("Hello, This Is Banall Bot I can Ban Members Within seconds made by hacker Akay !\n\n Simply Promote my By Adminstration then Type username")
